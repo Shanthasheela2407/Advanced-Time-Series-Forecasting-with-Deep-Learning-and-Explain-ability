@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Deep-Learning-and-Explain-ability
+This project implements advanced time series forecasting of stock prices using a multivariate LSTM model. Historical features like Open, High, Low, Close, and Volume are used to predict future Close prices. SHAP explainability interprets feature contributions, providing insights into model predictions and decision-making patterns.
